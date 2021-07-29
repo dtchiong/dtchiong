@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently looking for new software development opportunities. I'm passionate about building smooth frontend experiences with clean and maintainable code, and have professional experience buliding apps using React-Native and Typescript, but I'm also not afraid to dabble in backend work to hone more skills.
+I'm passionate about building smooth frontend experiences with clean and maintainable code, and have professional experience building apps using React-Native and Typescript.
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -10,7 +10,7 @@ I'm currently looking for new software development opportunities. I'm passionate
 <img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/455px-C_Sharp_logo.svg.png" />
+<img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1200px-C_Sharp_wordmark.svg.png" />
 <img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />
 <img align="left" alt="Rails" width="26px" src="https://avatars1.githubusercontent.com/u/4223?s=200&v=4" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
